@@ -39,4 +39,14 @@
     </synonym>
     <languageCode>ru</languageCode>
   </languages>
+  <subsystems>Subsystem.Администрирование</subsystems>
+  <subsystems>Subsystem.Отчеты</subsystems>
+  <subsystems>Subsystem.Продажи</subsystems>
+  <subsystems>Subsystem.Склад</subsystems>
+  <subsystems>Subsystem.Справочники</subsystems>
+  <commonPictures>CommonPicture.Администрирование</commonPictures>
+  <commonPictures>CommonPicture.Отчеты</commonPictures>
+  <commonPictures>CommonPicture.Продажи</commonPictures>
+  <commonPictures>CommonPicture.Склад</commonPictures>
+  <commonPictures>CommonPicture.Справочники</commonPictures>
 </mdclass:Configuration>
